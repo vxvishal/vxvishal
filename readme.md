@@ -1,4 +1,4 @@
-# Hey there,<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Vishal Kumar Singh.
+# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Vishal Kumar Singh.
 
 #### I am a second year Computer Science and Engineering student.
 
@@ -15,7 +15,6 @@
 
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Node.js)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=Swift)
 
 ###### Front-End Stack
 
@@ -30,8 +29,8 @@
 
 ###### Languages
 
-![Dart](https://img.shields.io/badge/-Dart-2AB7F6?style=flat-square&logo=Dart)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-E34A86?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 
 ### List of things I have worked with
 
@@ -56,7 +55,7 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxvishal&theme=highcontrast&layout=compact"  display=block width=100% height=auto  alt="2" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=vxvishal&custom_title=My%20Weekly%20Stats&layout=compact&theme=highcontrast" align="right" display=block width=100% height=auto  alt="4"  >
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=vxvishal&custom_title=My%20Weekly%20Stats&layout=compact&theme=highcontrast" align="right" display=block width=100% height=auto  alt="4">
   </td>
   </tr>
   <tr>
